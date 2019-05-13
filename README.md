@@ -1,2 +1,2 @@
 # toolbox
-General repo for data science testing
+General repo for data science specialisation testing
