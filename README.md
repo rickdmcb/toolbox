@@ -1,3 +1,8 @@
 # toolbox
 General repo for data science specialisation testing
-* Module 1 The Data Scientists Toolbox.
+
+## Modules.
+
+### Module 1 The Data Scientists Toolbox.
+
+### Module 2 R Programming.
